@@ -1,0 +1,67 @@
+body {
+    background-color:rgb(244, 237, 237);
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    color: black;
+    text-align: center;
+    padding: 1.5%;
+    align-items: center;
+
+}
+
+ul li{
+list-style-position: inside;
+align-items: center;
+text-align: center;
+}
+    
+ol li{
+    list-style-position: inside;
+    align-items: center;
+    text-align: center;
+}
+
+
+h1{
+    font-size: 45px;
+    text-align: center;
+    color: gold;
+    font: black;
+    text-shadow: black;
+}
+.slogansbee{
+    font-size: 22px;
+    border-radius: 5%;
+    text-align: center;
+}
+.menufrontview{
+ 
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-style: none;
+    color: gold;
+}
+.dumbell {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 10%;
+     }
+
+.weights{
+    border-radius: 50px;
+    border-style: none;
+    border-width: 3px;
+    margin-right: 2%;
+    padding: 10px;
+    padding-top: 30px;
+
+}
+div{
+    background-color:rgb(244, 237, 237);; border-style:solid; border-color: black; border-radius: 5px;
+
+}
+
+ .shadow.text{
+    text-shadow:  gray 1px 1px;
+ }
